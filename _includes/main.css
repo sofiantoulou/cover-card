@@ -21,13 +21,13 @@ body {
   opacity: 0.8;
 }
 #avatar {
-    height: 200px;
+    height: 220px;
     border-radius: 100%;
     border: 0px transparent;
     margin-bottom: 40px;
 }
 h1 {
-    color: rgba(32, 50, 67, 0);
+    color: rgba(32, 50, 67, 1);
     font-weight: normal;
     letter-spacing: 0.1em;
     font-size: 4em;
