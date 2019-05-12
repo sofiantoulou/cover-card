@@ -30,14 +30,14 @@ h1 {
     color: RGBA(32,50,67,1);
     font-weight: normal;
     letter-spacing: 0.1em;
-    font-size: 4em;
+    font-size: 3.6em;
     font-family: Arimo;
     margin: -10px 0;
 }
 h3 {
     color: RGBA(32,50,67,1);
     padding-bottom: 20px;
-    font-weight: bold;
+    font-weight: normal;
     letter-spacing: 0.1em;
     font-family: Roboto;
 }
