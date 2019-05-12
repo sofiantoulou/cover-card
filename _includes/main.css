@@ -38,6 +38,8 @@ h3 {
     color: RGBA(32,50,67,1);
     padding-bottom: 20px;
     font-weight: bold;
+    letter-spacing: 0.1em;
+    font-family: Roboto;
 }
 .content {
     padding-top: 100px;
