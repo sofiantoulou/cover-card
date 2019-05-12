@@ -3,7 +3,7 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Sofia Ntoulou'
-description: 'service designer, co-design researcher & facilitator'
+description: 'service designer & co-creation facilitator'
 
 # Images
 avatar: 'avatar.png'
@@ -31,7 +31,7 @@ github-user: 'sofiantoulou'
 #weibo: ''
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-email: 'sofia@ntoulou.com'
+email: 'ntoulou.sophia@gmail.com'
 #messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
