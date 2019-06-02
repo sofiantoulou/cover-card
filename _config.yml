@@ -31,7 +31,7 @@ github-user: 'sofiantoulou'
 #weibo: ''
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-email: 'ntoulou.sophia@gmail.com'
+email: 'sofia@ntoulou.com'
 #messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
