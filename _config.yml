@@ -14,7 +14,7 @@ favicon: 'favicon.ico'
 #dribbble: 'mydribbble'
 #Facebook: 'NtoulouSofia'
 #twitter: 'mytwitter'
-LinkedIn: 'sofiantoulou'
+linkedIn: 'sofiantoulou'
 Instagram: 'sofiantoulou'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
@@ -70,7 +70,7 @@ social-links:
     url-pattern: twitter.com/__USERNAME__
 
   - name: LinkedIn
-    url-pattern: linkedin.com/in/__USERNAME__
+    url-pattern: LinkedIn.com/in/__USERNAME__
 
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
