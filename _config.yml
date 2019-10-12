@@ -14,8 +14,8 @@ favicon: 'favicon.ico'
 #dribbble: 'mydribbble'
 #Facebook: 'NtoulouSofia'
 #twitter: 'mytwitter'
-linkedIn: 'sofiantoulou'
-Instagram: 'sofiantoulou'
+linkedin: 'sofiantoulou'
+instagram: 'sofiantoulou'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 #github-user: 'sofiantoulou'
@@ -62,15 +62,15 @@ plugins:
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: Facebook
+  - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: Twitter
+  - name: twitter
     url-pattern: twitter.com/__USERNAME__
 
-  - name: LinkedIn
-    url-pattern: LinkedIn.com/in/__USERNAME__
+  - name: linkedin
+    url-pattern: linkedIn.com/in/__USERNAME__
 
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
@@ -81,7 +81,7 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: Instagram
+  - name: instagram
     url-pattern: instagram.com/__USERNAME__
 
   - name: flickr
