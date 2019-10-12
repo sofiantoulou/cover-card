@@ -31,8 +31,8 @@ instagram: 'sofiantoulou'
 #weibo: ''
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-Email: 'sofia@ntoulou.com'
-Messenger: 'SofiaNtoulou'
+email: 'sofia@ntoulou.com'
+messenger: 'SofiaNtoulou'
 
 
 
@@ -134,7 +134,7 @@ social-links:
   - name: keybase
     url-pattern: keybase.io/__USERNAME__
 
-  - name: Messenger
+  - name: messenger
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
 
@@ -151,7 +151,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-tags
 
-  - name: Email
+  - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-envelope
