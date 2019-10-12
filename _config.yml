@@ -62,14 +62,14 @@ plugins:
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: facebook
+  - name: Facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: twitter
+  - name: Twitter
     url-pattern: twitter.com/__USERNAME__
 
-  - name: linkedin
+  - name: LinkedIn
     url-pattern: linkedin.com/in/__USERNAME__
 
   - name: google-plus
@@ -81,7 +81,7 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: instagram
+  - name: Instagram
     url-pattern: instagram.com/__USERNAME__
 
   - name: flickr
@@ -151,7 +151,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-tags
 
-  - name: email
+  - name: Email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-envelope
