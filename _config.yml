@@ -11,7 +11,7 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-dribbble: 'sofiantoulou.github.io/forty-jekyll-theme/'
+#dribbble: 'sofiantoulou.github.io/forty-jekyll-theme/'
 #Facebook: 'NtoulouSofia'
 #twitter: 'mytwitter'
 linkedin: 'sofiantoulou'
@@ -30,7 +30,7 @@ instagram: 'sofiantoulou'
 #tumblr: 'https://sofiantoulou.github.io/forty-jekyll-theme/'
 #weibo: 'https://sofiantoulou.github.io/forty-jekyll-theme/'
 #vk: 'https://sofiantoulou.github.io/forty-jekyll-theme/'
-blog_url: 'sofiantoulou.github.io/forty-jekyll-theme/'
+#blog_url: 'sofiantoulou.github.io/forty-jekyll-theme/'
 email: 'sofia@ntoulou.com'
 messenger: 'SofiaNtoulou'
 
